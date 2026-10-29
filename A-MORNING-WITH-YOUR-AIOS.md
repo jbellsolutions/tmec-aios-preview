@@ -11,7 +11,7 @@ What a normal morning looks like once your system is running. You talk (by voice
 **Chief of Staff:**
 
 > **Needs you (3)**
-> 1. Radar found 4 people in Queensland ready to buy solar and batteries. Replies drafted. Want to read them?
+> 1. Radar found 4 people in Queensland ready to buy solar and batteries, and drafted a reply to each. Want to read them?
 > 2. Partners has a first hello ready for 5 Sunshine Coast trades. Okay to line them up for your review?
 > 3. 6 quotes went quiet. A follow-up is drafted for each, matched to why they stalled. Read them?
 >
@@ -31,7 +31,7 @@ What a normal morning looks like once your system is running. You talk (by voice
 >
 > *Drafted reply:*
 >
-> Congrats on the new place. Short answer: it's usually both trades. The water side of an old solar hot water system is plumbing work, so a licensed plumber disconnects and caps it, and an electrician looks after any electric booster plus the new solar and battery. Worth asking on every quote: does it include taking the old panels off, sealing up the old roof holes, and what replaces your hot water? A good installer organises the plumber so you're not juggling trades. Full disclosure, I'm with TMEC Services on the Sunshine Coast. We do our own installs, no subcontractors. Happy to answer anything here.
+> Congrats on the new place. Short answer: it's usually both trades. The water side of an old solar hot water system is plumbing work, so a licensed plumber disconnects and caps it, and an electrician looks after any electric booster plus the new solar and battery. Worth asking on every quote: does it include taking the old panels off, sealing up the old roof holes, and what replaces your hot water? Full disclosure, I'm with TMEC Services on the Sunshine Coast. We do our own installs, no subcontractors. Happy to answer anything here.
 >
 > Post it as is, change it, or skip?
 
@@ -57,11 +57,15 @@ What a normal morning looks like once your system is running. You talk (by voice
 >
 > I'm Tommy from TMEC Services on the Sunshine Coast. We install solar, batteries and EV chargers with our own installers, not subcontractors.
 >
-> If your customers ever ask you about solar, they end up going elsewhere, because you don't do it. We'd like to be where you send them. You send one email to your customers recommending us. We write it for you. We pay you a fee for every sale that comes from it. Your customer list stays with you.
+> If your customers ever ask you about solar, we'd like to be who you send them to. You send one email to your customers recommending us. We write it for you. We pay you a fee for every sale that comes from it. Your customer list stays with you.
 >
 > Open to a quick call to see if it suits you?
 >
-> *I've also written the email they'd send their own customers. Nothing goes out until the Australian spam rules are checked and you've set the partner fee. That's on your list for Tuesday.*
+> Tommy
+>
+> [TMEC contact block and unsubscribe line]
+>
+> *I've also written the email they'd send their own customers. Nothing goes out until the Australian spam rules are checked and you've set the partner fee. Both go on your list for Session 1.*
 
 **You:** Good. Oh, and can it chase the hail insurance jobs too?
 

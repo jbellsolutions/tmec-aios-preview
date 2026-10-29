@@ -1,8 +1,13 @@
 {
   "permissions": {
+    "allow": [
+      "Edit(drafts/**)",
+      "Edit(vault/**)"
+    ],
     "deny": [
       "WebFetch",
-      "WebSearch"
+      "WebSearch",
+      "Edit(sample-data/**)"
     ],
     "ask": [
       "Bash"

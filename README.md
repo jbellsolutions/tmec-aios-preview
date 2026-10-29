@@ -1,5 +1,7 @@
 # TMEC AIOS: a taste of what's coming
 
+![TMEC AIOS: your AI operating system. One chat runs every lead source and the back office. You steer.](assets/tmec-aios.png)
+
 G'day Tommy. This is a small slice of your AI operating system, so you can feel what it's like before we install the real one together.
 
 The real system (version 1 is built, and we install it with you in Session 2) has one chat you talk to, the **Chief of Staff**, and nine specialists behind it. This preview is that same chat, working on real sample data we pulled for TMEC: real people in Queensland asking about solar and batteries, and a starter list of Sunshine Coast trades who could send you customers.
@@ -10,12 +12,12 @@ The real system (version 1 is built, and we install it with you in Session 2) ha
 
 ### 1. Just read it
 
-Open [A-MORNING-WITH-YOUR-AIOS.md](A-MORNING-WITH-YOUR-AIOS.md). It's what a normal morning looks like once the system is running.
+Open [A-MORNING-WITH-YOUR-AIOS.md](A-MORNING-WITH-YOUR-AIOS.md) right here. It's what a normal morning looks like once the system is running.
 
 ### 2. Talk to it (if you have Claude)
 
-1. Unzip this folder somewhere easy, like your Desktop.
-2. Open the Claude desktop app, go to the **Code** tab, and choose this folder. (Claude Code comes with Claude's paid plans. No Claude yet? No worries, we set it up together in Session 2.)
+1. Get the folder. Easiest: open the Claude desktop app, go to the **Code** tab, and say *"clone https://github.com/jbellsolutions/tmec-aios-preview to my Desktop and open it"*. Or on this page click the green **Code** button, then **Download ZIP**, and unzip it.
+2. In the Claude desktop app's **Code** tab, choose the `tmec-aios-preview` folder. (Claude Code comes with Claude's paid plans. No Claude yet? No worries, we set it up together in Session 2.)
 3. Say **"good morning"**, or try one of these:
 
 | Say or type | What happens |
