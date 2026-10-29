@@ -1,0 +1,7 @@
+quote_id,first_name,suburb,system_quoted,quote_month,lost_reason,stall_notes,note
+Q-101,Sam,Buderim,6.6 kW solar + 13.5 kWh battery,2026-08,too expensive,said the battery pushed it over budget; asked about finance,MADE-UP PRACTICE DATA
+Q-102,Leanne,Caloundra,10 kW solar,2026-09,not ready,renovating the kitchen first; call back after Christmas,MADE-UP PRACTICE DATA
+Q-103,Dave,Nambour,battery for existing 5 kW solar,2026-07,unsure about the battery,not sure a battery pays off with his usage,MADE-UP PRACTICE DATA
+Q-104,Priya,Maroochydore,8 kW solar + 10 kWh battery + EV charger,2026-09,comparing quotes,has two other quotes; asked who does the install,MADE-UP PRACTICE DATA
+Q-105,Mick,Coolum Beach,6.6 kW solar,2026-08,,no reply after the quote was sent,MADE-UP PRACTICE DATA
+Q-106,Jo,Sippy Downs,EV charger,2026-10,not ready,waiting on delivery of the new car,MADE-UP PRACTICE DATA
